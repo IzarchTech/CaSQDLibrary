@@ -1,6 +1,6 @@
 package interfaces
 
-interface IBlinding {
+sealed interface IBlinding {
     /**
      * Blinding thickness
      */
