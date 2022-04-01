@@ -1,6 +1,6 @@
 package interfaces
 
-sealed interface IFormwork {
+interface IFormwork {
     /**
      * Calculates the area covered by formwork
      *
